@@ -7,7 +7,7 @@
 
 - 💪 I’m an expert **Android and Flutter app developer**
 
-- 📽️ The projects I've worked on are listed in [my LinkedIn Profile](https://www.linkedin.com/in/zahid2islam3/)
+- 📽️ My published projects are listed in [my LinkedIn Profile](https://www.linkedin.com/in/zahid2islam3/)
 
 - 📄 Check my resume [here](shorturl.at/myB47)
 
