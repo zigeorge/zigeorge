@@ -9,7 +9,7 @@
 
 - 📽️ My published projects are listed in [my LinkedIn Profile](https://www.linkedin.com/in/zahid2islam3/)
 
-- 📄 Check my resume [here](shorturl.at/myB47)
+- 📄 Check my resume [here](https://docs.google.com/document/d/14GmbFjcILOT0EEWY_5czph_F2zoHA4iSdKJoyh7HWGQ/edit?usp=sharing)
 
 - 🏇 I’m currently practising **Docker, CI/CD and TDD**
 
