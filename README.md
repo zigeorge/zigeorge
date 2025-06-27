@@ -11,7 +11,7 @@
 
 - 📄 Check my resume [here](https://docs.google.com/document/d/14GmbFjcILOT0EEWY_5czph_F2zoHA4iSdKJoyh7HWGQ/edit?usp=sharing)
 
-- 🏇 I’m currently practising **Docker, CI/CD and TDD**
+- 🏇 I’m currently doing **Deployment, CI/CD. system design and maintenance**
 
 - 📮 Reach me at **zahid2islam3@gmail.com**
 
