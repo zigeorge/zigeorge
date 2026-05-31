@@ -5,13 +5,13 @@
 
 - ❓ Ask me about **Android, Kotlin, OOP and SOLID**
 
-- 💪 I’m an expert **Android and Flutter app developer**
+- 💪 I’m an expert **Full stack application developer**
 
 - 📽️ My published projects are listed in [my LinkedIn Profile](https://www.linkedin.com/in/zahid2islam3/)
 
-- 📄 Check my resume [here](https://docs.google.com/document/d/14GmbFjcILOT0EEWY_5czph_F2zoHA4iSdKJoyh7HWGQ/edit?usp=sharing)
+- 📄 Check my resume [here](https://docs.google.com/document/d/1uGaaBiREXN_kVRpdIvw4i0P9_beEkD_tBO8gmMDnygk/edit?usp=sharing)
 
-- 🏇 I’m currently doing **Deployment, CI/CD. system design and maintenance**
+- 🏇 I’m currently doing **MSC in Computational Sciences at Laurentian University, Canada**
 
 - 📮 Reach me at **zahid2islam3@gmail.com**
 
